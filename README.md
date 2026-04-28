@@ -3,7 +3,7 @@
 **Disciplina:** Frameworks Modernos para Desenvolvimento de Sistemas
 **Professor:** Me. Cides S. Bezerra
 **Curso:** Sistemas de Informação - UNEMAT
-
+**Aluno:** pirakta tawa ikpeng
 ---
 
 ## 📌 Descrição do Projeto
@@ -49,13 +49,13 @@ O objetivo é aplicar conceitos fundamentais de frameworks modernos, como reativ
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/AndreFerreiraHashimoto/Gestao_de_Compras.git
+git clone https://github.com/pirakta/gestaodecompras.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd gestao-compras
+cd gestao-de-compras
 ```
 
 ### 3. Instale as dependências
